@@ -1,0 +1,422 @@
+[
+  {
+    "feasible": true,
+    "placements": {
+      "iceMaker": {
+        "center": [
+          5556.279,
+          29805.7272
+        ],
+        "angle": 15.852,
+        "size": [
+          760.0,
+          850.0
+        ],
+        "againstWall": true
+      },
+      "fridge": {
+        "center": [
+          5191.8913,
+          31931.0171
+        ],
+        "angle": 195.852,
+        "size": [
+          1220.0,
+          1330.0
+        ],
+        "againstWall": true
+      },
+      "shelf-1": {
+        "center": [
+          5500.9946,
+          30439.7371
+        ],
+        "angle": 15.852,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-2": {
+        "center": [
+          5926.0171,
+          32310.9965
+        ],
+        "angle": 285.852,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-3": {
+        "center": [
+          6150.2669,
+          29324.6831
+        ],
+        "angle": 15.852,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-1": {
+        "center": [
+          6256.1746,
+          32612.652
+        ],
+        "angle": 285.852,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-2": {
+        "center": [
+          6640.9628,
+          32721.9134
+        ],
+        "angle": 285.852,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-3": {
+        "center": [
+          6821.7357,
+          28941.7939
+        ],
+        "angle": 180.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      }
+    },
+    "unplaced": [],
+    "stats": {
+      "nodes": 138,
+      "note": "全部贴墙"
+    },
+    "source": "examples\\example1.json",
+    "elapsedSec": 0.124
+  },
+  {
+    "feasible": true,
+    "placements": {
+      "fridge": {
+        "center": [
+          29603.3885,
+          32665.0295
+        ],
+        "angle": 0.0,
+        "size": [
+          1220.0,
+          1330.0
+        ],
+        "againstWall": true
+      },
+      "shelf-1": {
+        "center": [
+          29493.3885,
+          34770.0295
+        ],
+        "angle": 0.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-2": {
+        "center": [
+          30193.3885,
+          34470.0295
+        ],
+        "angle": 270.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-3": {
+        "center": [
+          30413.3885,
+          32500.0295
+        ],
+        "angle": 90.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-4": {
+        "center": [
+          30593.3885,
+          34470.0295
+        ],
+        "angle": 270.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-1": {
+        "center": [
+          31296.3885,
+          32240.0295
+        ],
+        "angle": 0.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-2": {
+        "center": [
+          30993.3885,
+          34670.0295
+        ],
+        "angle": 270.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-3": {
+        "center": [
+          31296.3885,
+          32640.0295
+        ],
+        "angle": 180.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      }
+    },
+    "unplaced": [],
+    "stats": {
+      "nodes": 119,
+      "note": "全部贴墙"
+    },
+    "source": "examples\\example2.json",
+    "elapsedSec": 0.088
+  },
+  {
+    "feasible": true,
+    "placements": {
+      "fridge": {
+        "center": [
+          56563.3095,
+          36543.107
+        ],
+        "angle": 270.0,
+        "size": [
+          1220.0,
+          1330.0
+        ],
+        "againstWall": true
+      },
+      "shelf-1": {
+        "center": [
+          56798.3095,
+          37353.106
+        ],
+        "angle": 0.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-2": {
+        "center": [
+          56098.3095,
+          29983.107
+        ],
+        "angle": 90.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-3": {
+        "center": [
+          56098.3095,
+          30983.107
+        ],
+        "angle": 270.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-4": {
+        "center": [
+          56098.3095,
+          31983.107
+        ],
+        "angle": 270.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-5": {
+        "center": [
+          56098.3095,
+          32983.107
+        ],
+        "angle": 270.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-1": {
+        "center": [
+          56098.3095,
+          33783.107
+        ],
+        "angle": 270.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-2": {
+        "center": [
+          56098.3095,
+          34383.107
+        ],
+        "angle": 270.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-3": {
+        "center": [
+          56098.3095,
+          34983.107
+        ],
+        "angle": 270.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      }
+    },
+    "unplaced": [],
+    "stats": {
+      "nodes": 77,
+      "note": "全部贴墙"
+    },
+    "source": "examples\\example3.json",
+    "elapsedSec": 0.107
+  },
+  {
+    "feasible": true,
+    "placements": {
+      "fridge": {
+        "center": [
+          183483.5924,
+          32437.7231
+        ],
+        "angle": 180.0,
+        "size": [
+          1220.0,
+          1330.0
+        ],
+        "againstWall": true
+      },
+      "shelf-1": {
+        "center": [
+          184173.5924,
+          30042.7231
+        ],
+        "angle": 90.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "shelf-2": {
+        "center": [
+          183073.5924,
+          30042.7231
+        ],
+        "angle": 90.0,
+        "size": [
+          1000.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-1": {
+        "center": [
+          183073.5924,
+          30842.7231
+        ],
+        "angle": 270.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-2": {
+        "center": [
+          183473.5924,
+          29842.7231
+        ],
+        "angle": 90.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      },
+      "overShelf-3": {
+        "center": [
+          184163.1148,
+          30842.7231
+        ],
+        "angle": 0.0,
+        "size": [
+          600.0,
+          400.0
+        ],
+        "againstWall": true
+      }
+    },
+    "unplaced": [],
+    "stats": {
+      "nodes": 57,
+      "note": "全部贴墙"
+    },
+    "source": "examples\\example4.json",
+    "elapsedSec": 0.059
+  }
+]
